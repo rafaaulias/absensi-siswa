@@ -101,5 +101,4 @@ Setelah Apache & MySQL berjalan dan database terimport, Anda dapat mengakses apl
 .htaccess               -> Rewrite rule root
 database.sql            -> DDL & DML Schema + Data Dummy
 README.md               -> Dokumentasi setup ini
-script.txt              -> Naskah presentasi & Q&A penguji
 ```
